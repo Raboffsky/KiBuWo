@@ -1,0 +1,16 @@
+{
+"companyName": "MülHeiMin",
+"productName": "Starke Veedel",
+"productVersion": "1.0",
+"dataUrl": "KibuwoBuild.data.unityweb",
+"wasmCodeUrl": "KibuwoBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "KibuwoBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#81A980",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.24f1"
+}
